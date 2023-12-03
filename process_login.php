@@ -5,7 +5,7 @@ if(isset($_POST['user']) && isset($_POST['pass'])){
     // ket noi CSDL
     try{
         $host = '127.0.0.1';
-        $db = 'btth01_cse485btth_ex';
+        $db = 'btth01_cse485';
         $user = 'root';
         $pass = '';
         $charset = 'utf8mb4';
