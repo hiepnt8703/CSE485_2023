@@ -31,7 +31,7 @@
                 </ul>
                 <form class="d-flex" role="search">
                     <input class="form-control me-2" type="search" placeholder="Nội dung cần tìm" aria-label="Search">
-                    <button href="" class="btn btn-outline-success" type="submit">Tìm</button>
+                    <button class="btn btn-outline-success" type="submit">Tìm</button>
                 </form>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <img src="images/songs/cayvagio.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
-                            <a href="" class="text-decoration-none">Cây, lá và gió</a>
+                            <a href="./detail.php" class="text-decoration-none">Cây, lá và gió</a>
                         </h5>
                     </div>
                 </div>
@@ -83,11 +83,32 @@
                     <img src="images/songs/csmt.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
-                            <a href="" class="text-decoration-none">Cuộc sống mến thương</a>
+                            <a href="detail2.php" class="text-decoration-none">Cuộc sống mến thương</a>
                         </h5>
                     </div>
                 </div>
+            </div>
 
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs//longme.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">
+                            <a href="detail3.php" class="text-decoration-none">Lòng mẹ</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs/phoipha.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">
+                            <a href="detail4.php" class="text-decoration-none">Phôi Pha</a>
+                        </h5>
+                    </div>
+                </div>
             </div>
 
             <div class="col-sm-3">
@@ -95,11 +116,89 @@
                     <img src="images/songs/noitinhyeubatdau.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center my-title">
-                            <a href="" class="text-decoration-none">Nơi tình yêu bắt đầu</a>
+                            <a href="detail5.php" class="text-decoration-none">Nơi tình yêu bắt đầu</a>
                         </h5>
                     </div>
                 </div>
             </div>
+
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs/loveme.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center my-title">
+                            <a href="detail6.php" class="text-decoration-none">Love Me Like There's No Tomorrow</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs/vetmua.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center my-title">
+                            <a href="detail7.php" class="text-decoration-none">Love Me Like There's No Tomorrow</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs/TheUnforgiven.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center my-title">
+                            <a href="detail8.php" class="text-decoration-none">The Unforgiven</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs/datnuoc.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center my-title">
+                            <a href="detail9.php" class="text-decoration-none">Đất Nước</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs/nguoithay.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center my-title">
+                            <a href="detail10.php" class="text-decoration-none">Người Thầy</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs/stronger.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center my-title">
+                            <a href="detail11.php" class="text-decoration-none">I'm Stronger</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="card mb-2" style="width: 100%;">
+                    <img src="images/songs/quehuong.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text-center my-title">
+                            <a href="detail12.php" class="text-decoration-none">Quê Hương</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </main>
     <footer class="bg-white d-flex justify-content-center align-items-center border-top border-secondary  border-2" style="height:80px">
